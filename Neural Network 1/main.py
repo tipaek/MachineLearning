@@ -69,7 +69,7 @@ derror_dbias = (
     derror_dprediction * dprediction_dlayer1 * dlayer1_dbias
 )
 
-dlayer1_dweights = 1 #bro i don't get this man ahhhh
+dlayer1_dweights = 1 
 
 
 
